@@ -14,6 +14,7 @@
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][PythonWebsite]
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][C++Website]
 [<img align="left" alt="Java" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.png" />][JavaWebsite]
+[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />][BashWebsite]
 
 
 <br />
@@ -34,3 +35,5 @@
 [JavaWebsite]: https://www.java.com/en/
 [PyCharmWebsite]: https://www.jetbrains.com/pycharm/
 [GitWebsite]: https://git-scm.com/
+[IntelliJWebside]: https://www.jetbrains.com/idea/
+[BashWebsite]: https://www.gnu.org/software/bash/
