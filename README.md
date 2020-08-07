@@ -20,11 +20,9 @@
 
 ### Tools
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCodeWebsite]
-[<img align="left" alt="PyCharm" width="26px" src="https://banner2.cleanpng.com/20180629/ozb/kisspng-pycharm-jetbrains-intellij-idea-integrated-develop-5b35cf9d892606.3464795215302532135618.jpg" />][PyCharmWebsite]
+[<img align="left" alt="PyCharm" width="26px" src="https://img.icons8.com/color/72/pycharm.png" />][PyCharmWebsite]
+[<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/2x/intellij-idea.png" />][IntelliJWebsite]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][GitWebsite]
-
-
-
 
 <br />
 <br />
