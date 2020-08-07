@@ -35,5 +35,5 @@
 [JavaWebsite]: https://www.java.com/en/
 [PyCharmWebsite]: https://www.jetbrains.com/pycharm/
 [GitWebsite]: https://git-scm.com/
-[IntelliJWebside]: https://www.jetbrains.com/idea/
+[IntelliJWebsite]: https://www.jetbrains.com/idea/
 [BashWebsite]: https://www.gnu.org/software/bash/
