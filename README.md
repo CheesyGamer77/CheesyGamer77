@@ -27,10 +27,10 @@ Welcome to my GitHub profile! Hope you enjoy your stay :)
 ## Stuff I'd Like to Accomplish in 2022
 
 - [ ] Strengthen skills in JavaScript/TypeScript frameworks
-    - [ ] React
+    - [x] React
     - [ ] Angular
     - [x] Next
-    - [ ] Vue
+    - [x] Vue
 - [ ] Strengthen skills in Java frameworks
     - [ ] Spring
     - [ ] Android
@@ -39,5 +39,5 @@ Welcome to my GitHub profile! Hope you enjoy your stay :)
     - [ ] Develop a simple game server using [asio](https://think-async.com/Asio)
     - [ ] Revisit an old high school G-Code parser project
 - [ ] Add some stuff to my [website](https://cheesygamer77.pw)
-    - [ ] REST API
+    - [x] REST API
     - [ ] Nicer looking AND reusable graphics/aesthetics
