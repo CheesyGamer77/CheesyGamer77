@@ -1,14 +1,18 @@
-# Hello, Welcome!
+## Hello, Welcome!
 
 Welcome to my GitHub profile! Hope you enjoy your stay :)
+
+---
 
 ## About Me
 
 - **Name:** Casey
 - **Pronouns:** She/Her/Hers or They/Them/Theirs
 - **Occupation:** Full-Time Computer Science Student
-- **Tech Interests:** Databases, Web Development, Systems Administration, Industrial Controls
+- **Tech Interests:** Databases, Web Development, Systems Administration, Distributed Systems
 - **Hobbies:** Community Service, Running, Biking, Musician
+
+---
 
 ## Technologies
 
@@ -24,20 +28,8 @@ Welcome to my GitHub profile! Hope you enjoy your stay :)
 [![Linux](https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FFFFFF)](https://linux.org)
 [![Git](https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032)](https://git-scm.com)
 
-## Stuff I'd Like to Accomplish in 2022
+---
 
-- [ ] Strengthen skills in JavaScript/TypeScript frameworks
-    - [x] React
-    - [ ] Angular
-    - [x] Next
-    - [x] Vue
-- [ ] Strengthen skills in Java frameworks
-    - [ ] Spring
-    - [ ] Android
-    - [ ] JavaFX
-- [ ] Strengthen skills in C++
-    - [ ] Develop a simple game server using [asio](https://think-async.com/Asio)
-    - [ ] Revisit an old high school G-Code parser project
-- [ ] Add some stuff to my [website](https://cheesygamer77.pw)
-    - [x] REST API
-    - [ ] Nicer looking AND reusable graphics/aesthetics
+## GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=CheesyGamer77&count_private=true&theme=highcontrast&show_icons=true)
