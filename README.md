@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! Hope you enjoy your stay :)
 
----
-
 ## About Me
 
 - **Name:** Casey
@@ -11,8 +9,6 @@ Welcome to my GitHub profile! Hope you enjoy your stay :)
 - **Occupation:** Full-Time Computer Science Student
 - **Tech Interests:** Databases, Web Development, Systems Administration, Distributed Systems
 - **Hobbies:** Community Service, Running, Biking, Musician
-
----
 
 ## Technologies
 
@@ -27,8 +23,6 @@ Welcome to my GitHub profile! Hope you enjoy your stay :)
 [![TypeScript](https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=2F74C0)](https://typescriptlang.org)
 [![Linux](https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FFFFFF)](https://linux.org)
 [![Git](https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032)](https://git-scm.com)
-
----
 
 ## GitHub Stats
 
